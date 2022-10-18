@@ -1,4 +1,4 @@
-#Sophia
+#Written by Sophia
 import time
 password = '111'
 decoy_password = '000'
