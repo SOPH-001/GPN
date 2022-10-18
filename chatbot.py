@@ -26,8 +26,7 @@ time.sleep(0.5)
 if acess_type == 'denied':
     print('You had too many guesses.')
 elif acess_type == 'decoy':
-    print('''Here is the secret diary:
-Ghjshdgcuyewfgerfiukeryi!''')
+    print('''Here is the secret diary: Totally real entry in the secret diary!!! --> hello''')
 else:
     op = input('''What would you like to do?
     (1) write in diary
